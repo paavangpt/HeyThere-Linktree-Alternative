@@ -11,3 +11,23 @@ body {
     justify-content: center;
     align-items: center;
 }
+
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    z-index: 1;
+}
+
+.bgimg {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: url("images/wall1.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-position: center;
+    background-size: cover;
+    opacity: .6;
+    z-index: -1;
+}
