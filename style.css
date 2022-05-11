@@ -56,10 +56,11 @@ body {
 
 .name {
     font-weight: bold;
-    font-size: 2em;
+    font-size: 2.2em;
     letter-spacing: 1px;
-    opacity: .7;
     letter-spacing: 2px;
+    color: black;
+    text-shadow: 1px 1px 10px #eee;
 }
 
 .tags {
@@ -80,6 +81,8 @@ body {
     margin-bottom: 20%;
     margin-top: 2%;
     box-shadow: 1px 1px 4px rgba(128, 128, 128, .3);
+    font-weight: bold;
+    letter-spacing: 1px;
 }
 
 .tag:nth-child(1) {
