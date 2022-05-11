@@ -58,3 +58,38 @@ body {
     opacity: .7;
     letter-spacing: 2px;
 }
+
+.tags {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
+.tag {
+    background-color: #fff;
+    padding: 7px;
+    border-radius: 5px;
+    opacity: .8;
+    transition: .3s;
+    margin-bottom: 20%;
+    margin-top: 2%;
+    box-shadow: 1px 1px 4px rgba(128, 128, 128, .3);
+}
+
+.tag:nth-child(1) {
+    background-color: #e8deee;
+}
+
+.tag:nth-child(2){
+    background-color: #ffe2dd;
+}
+
+.tag:nth-child(3){
+    background-color: #d3e5ef;
+}
+
+.tag:hover{
+    transform: scale(1.05);
+}
