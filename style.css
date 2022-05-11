@@ -14,6 +14,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+    overflow: hidden;
 }
 
 .container{
@@ -36,6 +37,7 @@ body {
     opacity: .6;
     z-index: -1;
     filter: blur(2px);
+    transition: .3s;
 }
 
 .logo {
@@ -69,6 +71,7 @@ body {
 }
 
 .tag {
+    cursor: pointer;
     background-color: #fff;
     padding: 7px;
     border-radius: 5px;
@@ -84,7 +87,7 @@ body {
 }
 
 .tag:nth-child(2){
-    background-color: #ffe2dd;
+    background-color: #ead3c1;
 }
 
 .tag:nth-child(3){
@@ -103,6 +106,7 @@ body {
 }
 
 .link-item {
+    cursor: pointer;
     border: 2px solid black;
     padding: 10px 30px;
     font-size: 1.5em;
