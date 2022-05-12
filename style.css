@@ -29,14 +29,14 @@ body {
     position: absolute;
     top: 0;
     left: 0;
-    background: url("images/wall3.jpg");
+    background: url("images/wall6.jpg");
     height: 100vh;
     width: 100vw;
     background-position: center;
     background-size: cover;
     opacity: .6;
     z-index: -1;
-    filter: blur(2px);
+    filter: blur(1px);
     transition: .3s;
 }
 
@@ -102,7 +102,7 @@ body {
 }
 
 .links {
-    margin-top: 10%;
+    margin-top: 1%;
     display: flex;
     flex-direction: column;
     gap: 10px;
@@ -110,12 +110,12 @@ body {
 
 .link-item {
     cursor: pointer;
-    border: 2px solid black;
+    border: 5px solid black;
     padding: 10px 30px;
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-decoration: none;
     color: black;
-    background-color: #c26987;
+    background-color: #86b29d;
     opacity: .8;
     color: white;
     border-radius: 10px;
