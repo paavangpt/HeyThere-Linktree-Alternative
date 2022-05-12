@@ -5,8 +5,6 @@ The User Interface is mainly for the mobile screens but since the UI is responsi
 
 **You can take a look at this project here** :- https://paavangpt.github.io/HeyThere-Linktree-Alternative/
 
-**Here is the desktop version:**
-<img width="960" alt="Capture" src="https://user-images.githubusercontent.com/36957245/167929868-94076036-93ac-4cab-86be-1f5c32a7aa14.PNG">
-
-**Here is the mobile Version**
-<img width="223" alt="Capture2" src="https://user-images.githubusercontent.com/36957245/167929918-6e05d554-ec19-42c5-9f17-ac7f87bdfe4e.PNG">
+**Here are the previews of desktop and mobile version of the projects:**
+<img width="960" alt="Capture" src="https://user-images.githubusercontent.com/36957245/168002675-3965f782-33a1-43a4-85a8-d9abb74d7a8d.PNG">
+<img width="220" alt="Capture2" src="https://user-images.githubusercontent.com/36957245/168002687-fb183ce8-1ae4-4229-94db-b57f781f5922.PNG">
