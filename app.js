@@ -31,7 +31,7 @@ links.forEach(link => {
             lnk.style.backgroundColor = "#86b29d";
             lnk.style.color = "white";
             lnk.style.transform = "scale(1)";
-            bgimg.style.filter = "blur(2px)"
+            bgimg.style.filter = "blur(1px)"
             bgimg.style.transform = "scale(1)";
         });
     });
